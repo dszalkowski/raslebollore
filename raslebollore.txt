@@ -177,6 +177,7 @@
 ?variables=%7B%22screen_name%22%3A%22larousse_fr%22%7D$domain=x.com
 ?variables=%7B%22screen_name%22%3A%22leJDD%22%7D$domain=x.com
 ?variables=%7B%22screen_name%22%3A%22M6meteo%22%7D$domain=x.com
+?variables=%7B%22screen_name%22%3A%22NatGeoFR%22%7D$domain=x.com
 ?variables=%7B%22screen_name%22%3A%22neon_mediafr%22%7D$domain=x.com
 ?variables=%7B%22screen_name%22%3A%22ohmymagfr%22%7D$domain=x.com
 ?variables=%7B%22screen_name%22%3A%22PasseportSante%22%7D$domain=x.com
