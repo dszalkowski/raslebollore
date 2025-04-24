@@ -38,6 +38,7 @@
 ||facebook.com/C8TV^$document
 ||facebook.com/caminteresseMagazine^$document
 ||facebook.com/CoteMaison^$document
+||https://www.facebook.com/CNEWSofficiel^$document
 ||facebook.com/croqkilosbyM6^$document
 ||facebook.com/cuisineactuelle^$document
 ||facebook.com/deco.fr^$document
